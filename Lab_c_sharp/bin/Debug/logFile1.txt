@@ -1,0 +1,10 @@
+Exe Stack: 
+
+SymTable: 
+[ f->1, v->12, ]
+Out: 
+12
+FileTable: 
+{ 1->[file.txt, System.IO.StreamReader], }
+
+

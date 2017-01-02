@@ -1,0 +1,10 @@
+Exe Stack: 
+
+SymTable: 
+[ f->1, c->50, ]
+Out: 
+12 50 
+FileTable: 
+{ }
+
+
