@@ -1,0 +1,6 @@
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\bin\Debug\Lab_c_sharp.exe.config
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\bin\Debug\Lab_c_sharp.exe
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\bin\Debug\Lab_c_sharp.pdb
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\obj\Debug\Lab_c_sharp.csprojResolveAssemblyReference.cache
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\obj\Debug\Lab_c_sharp.exe
+C:\Info@UBB\Semestrul 3\MAP\Lab_c_sharp\Lab_c_sharp\obj\Debug\Lab_c_sharp.pdb
